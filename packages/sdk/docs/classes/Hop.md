@@ -1,6 +1,6 @@
 # Class: Hop
 
-Class reprensenting Hop
+Class representing Hop
  Hop
 
 ## Hierarchy

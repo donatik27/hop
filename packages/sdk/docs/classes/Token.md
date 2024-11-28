@@ -1,6 +1,6 @@
 # Class: Token
 
-Class reprensenting ERC20 Token
+Class representing ERC20 Token
  Token
 
 ## Hierarchy
